@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\vesh.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\vesh.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\vesh.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\vesh.AssemblyInfo.cs
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\vesh.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\HW5\vesh\bin\Debug\net6.0\vesh.exe
+E:\Users\X\Desktop\HW5\vesh\bin\Debug\net6.0\vesh.deps.json
+E:\Users\X\Desktop\HW5\vesh\bin\Debug\net6.0\vesh.runtimeconfig.json
+E:\Users\X\Desktop\HW5\vesh\bin\Debug\net6.0\vesh.dll
+E:\Users\X\Desktop\HW5\vesh\bin\Debug\net6.0\vesh.pdb
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\vesh.dll
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\refint\vesh.dll
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\vesh.pdb
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\vesh.genruntimeconfig.cache
+E:\Users\X\Desktop\HW5\vesh\obj\Debug\net6.0\ref\vesh.dll
