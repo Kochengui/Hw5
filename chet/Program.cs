@@ -10,7 +10,7 @@ for (int i = 0; i < nums.Length; i++)
 if (nums[i] % 2 == 0)
 crex ++;
 
-Console.WriteLine($"всего {nums.Length} чисел/числа, {crex } из них чётные");
+Console.WriteLine($"всего {nums.Length} чисел/числа, {crex} из них чётные");
 
 void FillArray(int[] numbers)
 {
