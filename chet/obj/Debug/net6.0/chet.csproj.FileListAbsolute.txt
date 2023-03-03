@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\HW5\chet\bin\Debug\net6.0\chet.exe
+E:\Users\X\Desktop\HW5\chet\bin\Debug\net6.0\chet.deps.json
+E:\Users\X\Desktop\HW5\chet\bin\Debug\net6.0\chet.runtimeconfig.json
+E:\Users\X\Desktop\HW5\chet\bin\Debug\net6.0\chet.dll
+E:\Users\X\Desktop\HW5\chet\bin\Debug\net6.0\chet.pdb
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\chet.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\chet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\chet.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\chet.AssemblyInfo.cs
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\chet.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\chet.dll
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\refint\chet.dll
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\chet.pdb
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\chet.genruntimeconfig.cache
+E:\Users\X\Desktop\HW5\chet\obj\Debug\net6.0\ref\chet.dll
